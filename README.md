@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 대안책(대전 안전 Check)
 
 대전 어린이 안전 대시보드 웹 서비스
@@ -15,3 +16,6 @@
 - index.html, main.js, style.css 등 웹 파일
 - server.js (Node.js 서버)
 - 이미지 및 데이터 파일
+=======
+# daejeonproject-test
+>>>>>>> ac4414359eb059157639b735df34da20037eb7cb
